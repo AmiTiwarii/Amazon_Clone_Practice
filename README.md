@@ -3,7 +3,8 @@
 
 I made this project Amazon Clone just for practicing the html, css and javascript 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/c11e4725-02b9-4eea-8daa-fbf61a54b1e0)
+
+![Amazon Clone ](https://github.com/user-attachments/assets/7e2f8161-5e5f-4626-ad9d-366665c8609e)
 
 ## Features
 
